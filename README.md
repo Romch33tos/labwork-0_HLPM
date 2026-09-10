@@ -14,3 +14,8 @@
 
 <img width="593" height="109" alt="image" src="https://github.com/user-attachments/assets/c8f9ba9d-e815-4bbb-92b9-b6ff70a90b94" />
 <img width="354" height="135" alt="image" src="https://github.com/user-attachments/assets/67b0f1b7-3896-43bb-bdb6-f77cd1149727" />
+
+Задание 4
+<img width="606" height="116" alt="image" src="https://github.com/user-attachments/assets/b1604dee-448f-4e1c-b541-c6ae6add7ac7" />
+<img width="351" height="134" alt="image" src="https://github.com/user-attachments/assets/c49b6ec7-5a53-4a80-afcf-e13d8e49ef8d" />
+
