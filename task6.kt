@@ -8,6 +8,8 @@ fun main(commandLineArguments: Array<String>) {
   val allWords = sourceText
     .split(Regex("\\s+"))
     .filter { word -> word.isNotEmpty() }
+
+  val wordToOccurrenceCount = allWords.groupingBy { word -> word }.eachCount()
 }
 
 fun readFromStandardInput(): String {
